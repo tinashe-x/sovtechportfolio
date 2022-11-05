@@ -1,0 +1,36 @@
+.skills{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.skills h1.heading{
+    position: relative;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+
+.skills p.sub-heading{
+    position: relative;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    padding: 10px 0;
+    color: #444;
+}
+
+.skills .skills-card{
+    position: relative;
+    height: 250px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 5px;
+}
