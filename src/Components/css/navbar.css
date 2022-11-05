@@ -3,7 +3,7 @@
     top: 0;
     height: 50px;
     width: 100%;
-    background: #017bf5;
+    background: #444;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -41,7 +41,7 @@
     width: 100%;
     align-items: center;
     justify-content: center;
-    background: #017bf5;
+    background: #444;
     padding: 0 10px;
     text-decoration: none;
     color: white;
@@ -53,5 +53,5 @@
 .navbar ul li:hover a,
 .navbar ul li:active a{
     background: #ffff;
-    color: #017bf5;
+    color: black;
 }

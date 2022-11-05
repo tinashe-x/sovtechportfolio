@@ -8,27 +8,42 @@ const Skills = () =>{
             <div className="skills-card">
                 <div className="card">
                     <i className="fa fa-"></i>
-                    <h1 className="heading">C# Web Development  (2 Years)</h1>
+                    <h1 className="heading">C# Web Development</h1>
                     <p className="sub-heading" >
-                        hsdbsn shdbhsbs sjdnfsjn djsbdnhsbdsj skjhds sjdbbsjdd
-                        sdksjdn ksdnksdj 
+                    •	Coding: 2 years of experience coding in C# having learned how to develop multiple ASP.NET Core and Web Applications.
                     </p>
                 </div>
                 <div className="card">
                     <i className="fa fa-"></i>
-                    <h1 className="heading">C# Web Development   (2 Years)</h1>
+                    <h1 className="heading">SQL Database Management</h1>
                     <p className="sub-heading">
-                        hsdbsn shdbhsbs sjdnfsjn djsbdnhsbdsj skjhds sjdbbsjdd
-                        sdksjdn ksdnksdj 
+                    •	3 years’ experience writing SQL code for creating and managing databases for various web applications.  
                     </p>
                 </div>
                 <div className="card">
                     <i className="fa fa-"></i>
-                    <h1 className="heading">C# Web Development   (2 Years)</h1>
+                    <h1 className="heading">Python</h1>
                     <p className="sub-heading">
-                        hsdbsn shdbhsbs sjdnfsjn djsbdnhsbdsj skjhds sjdbbsjdd
-                        sdksjdn ksdnksdj 
+                    •	1 year experience coding in Python.
                     </p>
+                </div>
+                <div className="card">
+                    <i className="fa fa-"></i>
+                    <h1 className="heading">WordPress</h1>
+                    <p className="sub-heading">
+                    •	3 years’ experience in designing and deploying WordPress Websites.                    </p>
+                </div>
+                <div className="card">
+                    <i className="fa fa-"></i>
+                    <h1 className="heading">WordPress</h1>
+                    <p className="sub-heading">
+                    •	3 years’ experience in designing and deploying WordPress Websites.                    </p>
+                </div>
+                <div className="card">
+                    <i className="fa fa-"></i>
+                    <h1 className="heading">WordPress</h1>
+                    <p className="sub-heading">
+                    •	3 years’ experience in designing and deploying WordPress Websites.                    </p>
                 </div>
             </div>
         </div>
