@@ -11,6 +11,7 @@ const Banner = () =>{
         <p className="sub-heading">Creating The Future</p>
         <a href="#skills">Explore</a>
         <br></br>
+        
         <div className="prompt">
           <LinkedInIcon />
           <EmailIcon />

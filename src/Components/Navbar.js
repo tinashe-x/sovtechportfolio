@@ -8,7 +8,7 @@ const Navbar = () =>{
             <ul>
                 <li className="active"><a href='#banner'>Home</a></li>
                 <li><a href='#skills'>Skills</a></li>
-                <li><a href='#about'>Who Am I?</a></li>
+                <li><a href='#whoami'>Who Am I?</a></li>
                 <li><a href='#experience'>Experience</a></li>
                 <li><a href='#contactform'>Contact Me</a></li>
             </ul>
