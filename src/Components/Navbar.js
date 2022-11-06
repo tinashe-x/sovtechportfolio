@@ -6,7 +6,7 @@ const Navbar = () =>{
         <div className='navbar'>
             <a href='/' className='logo'>SovTech Grad Program</a>
             <ul>
-                <li className="active"><a href='#home'>Home</a></li>
+                <li className="active"><a href='#banner'>Home</a></li>
                 <li><a href='#skills'>Skills</a></li>
                 <li><a href='#about'>Who Am I?</a></li>
                 <li><a href='#experience'>Experience</a></li>

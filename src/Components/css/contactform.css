@@ -1,3 +1,9 @@
+.contactform {
+    width: 50%;
+    margin: auto;
+    align-items: center;
+}
+
 .contactform h1{
         margin: 35px 0 20px 0;
         background-size: cover;

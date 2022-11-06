@@ -35,15 +35,15 @@ const Skills = () =>{
                 </div>
                 <div className="card">
                     <i className="fa fa-"></i>
-                    <h1 className="heading">WordPress</h1>
+                    <h1 className="heading">Github</h1>
                     <p className="sub-heading">
-                    •	3 years’ experience in designing and deploying WordPress Websites.                    </p>
+                    •	3 years’ experience managing Git Repositories and working in a Dev Ops environment.                   </p>
                 </div>
                 <div className="card">
                     <i className="fa fa-"></i>
-                    <h1 className="heading">WordPress</h1>
+                    <h1 className="heading">JavaScript & HTML</h1>
                     <p className="sub-heading">
-                    •	3 years’ experience in designing and deploying WordPress Websites.                    </p>
+                    •	Less than 1 year experience in designing and deploying React Websites using JS and HTML.                    </p>
                 </div>
             </div>
         </div>

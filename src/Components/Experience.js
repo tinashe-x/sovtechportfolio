@@ -9,7 +9,7 @@ import './css/Experience.css'
 
 const Experience = () =>{
     return(
-        <div className="experience">
+        <div className="experience" id="experience">
             <h1 className="heading">Experience</h1>
             <p className="sub-heading">A Timeline Of All my Relevant IT Experience</p>
             <VerticalTimeline lineColor="white">
