@@ -2,13 +2,13 @@ import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import EmailIcon from "@material-ui/icons/Email";
 import GithubIcon from "@material-ui/icons/GitHub";
 import React from "react";  
-import './css/Banner.css';
+import './css/home.css';
 import IconButton from '@material-ui/core/IconButton';
 import Button from '@material-ui/core/Button';
 
-const Banner = () =>{
-    return(<div className="banner" id="banner">
-      <div className="banner-info"> 
+const home = () =>{
+    return(<div className="home" id="home">
+      <div className="home-info"> 
         <h1>Welcome To My Portfolio</h1>
         <p className="sub-heading">Tinashe Sibanda</p>
         <a href="#skills">Explore</a>
@@ -31,4 +31,4 @@ const Banner = () =>{
     
 }
 
-export default Banner;
+export default home;

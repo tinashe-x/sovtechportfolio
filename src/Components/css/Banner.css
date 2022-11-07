@@ -1,4 +1,4 @@
-.banner{
+.home{
     position: relative;
     height: 100vh;
     width: 100%;
@@ -8,7 +8,7 @@
     
 }
 
-.banner .banner-info{
+.home .home-info{
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
@@ -20,7 +20,7 @@
     
 }
 
-.banner .banner-info h1{
+.home .home-info h1{
     position: relative;
     color: white;
     font-size: 3.5rem;
@@ -28,7 +28,7 @@
     font-weight: 800;
 }
 
-.banner .banner-info a{
+.home .home-info a{
     position: relative;
     text-decoration: none;
     background: #444;
@@ -40,23 +40,23 @@
     transition: 0.2s linear;
 }
 
-.banner .banner-info a:hover{
+.home .home-info a:hover{
     background: rgb(135, 135, 135);
 }
 
-.banner .prompt {
+.home .prompt {
     width: 100%;
     font-size: 30px;
     color: #0a1018;
 }
   
-.banner svg {
+.home svg {
     font-size: 60px;
     margin: 5px;
     color: white;
   }
 
-.banner p.sub-heading{
+.home p.sub-heading{
     position: relative;
     width: 100%;
     height: auto;
