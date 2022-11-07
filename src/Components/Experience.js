@@ -26,7 +26,7 @@ const Experience = () =>{
                 iconStyle={{background: "Black", color: "white"}}
                 icon={<SchoolIcon />}
                 > 
-                <h3 className="vertical-timeline-element-title">University Of Johannesburg, South Africa</h3>
+                <h3 className="vertical-timeline-element-title">University Of Johannesburg, Gauteng, South Africa</h3>
                 <p>Bachelors Degree: Information Systems</p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement className="vertical-timeline-element--education" 

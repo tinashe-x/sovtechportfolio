@@ -16,6 +16,8 @@
     height: auto;
     text-align: center;
     line-height: 5.5rem;
+    font-weight: 450;
+    
 }
 
 .banner .banner-info h1{
@@ -45,8 +47,8 @@
 .banner .prompt {
     width: 100%;
     font-size: 30px;
-    
-  }
+    color: #0a1018;
+}
   
 .banner svg {
     font-size: 60px;
