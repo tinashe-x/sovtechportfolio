@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The Link to the hosted version of this app is: 
+
+https://sovtechportfolio-zeta.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
